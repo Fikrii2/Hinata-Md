@@ -50,7 +50,8 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 
  *DOWNLOADER*
  > ${prefix}play
- > ${prefix}tiktok
+ > ${prefix}tiktoknowm
+ > ${prefix}tiktokaudio
  > ${prefix}ytmp4
  > ${prefix}ytmp3
  > ${prefix}getvideo
